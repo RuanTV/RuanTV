@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RuanTV
-- 👀 I’m interested in desktop applications, computer graphics and game development
+- 👀 I’m interested in backend and game development
 - 🌱 I’m currently studying computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> Gmail: ruantomazella@gmail.com | Discord: Dr_Ruan#2971
